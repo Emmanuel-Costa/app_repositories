@@ -1,123 +1,87 @@
 {
   "data": [
     {
-      "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "id": 394998773,
+      "name": "to_do_list_project",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
       },
       "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
-      "description": "description"
+      "language": "Kotlin",
+      "html_url": "https://github.com/Emmanuel-Costa/to_do_list_project",
+      "description": "Projeto To do list feito no bootcamp do Santander a partir das aulas da DIO(Digital Innovation One)"
     },
     {
-      "id": 178429138,
-      "name": "android-guidelines",
+      "id": 389122792,
+      "name": "imc_calculator",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
+      "html_url": "https://github.com/Emmanuel-Costa/imc_calculator",
+      "description": "projeto criado no bootcamp santander, calculadora de imc com android studio",
       "stargazers_count": 0,
-      "language": "guideline"
-    },
-    {
-      "id": 183915325,
-      "name": "android-testing",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
-      "stargazers_count": 1,
-      "language": "Java"
-    },
-    {
-      "id": 378749135,
-      "name": "app-repositories",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
-      "description": "empty description",
-      "stargazers_count": 2,
       "language": "Kotlin"
     },
     {
-      "id": 63367755,
-      "name": "avaliacao-ios",
+      "id": 398829735,
+      "name": "business_card_app",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
-    },
-    {
-      "id": 63448974,
-      "name": "avaliacao-ios-manual",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
-    },
-    {
-      "id": 263680765,
-      "name": "base-redcode",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
-    },
-    {
-      "id": 183948239,
-      "name": "BaseJetpack",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
+      "html_url": "https://github.com/Emmanuel-Costa/business_card_app",
+      "description": "Projeto proposto pelo Bootcamp Inter(DIO)",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 265040807,
-      "name": "Chuck-Norris-Facts",
+      "id": 384182407,
+      "name": "calculadora_de_notas",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
+      "html_url": "https://github.com/Emmanuel-Costa/calculadora_de_notas",
+      "description": "Projeto da aula de introdução ao Android Studio (DIO - Santander Bootcamp)",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 369822554,
-      "name": "coin-converter",
+      "id": 384960295,
+      "name": "estudo_collections_kotlin",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
-      "description": "empty description",
-      "stargazers_count": 1,
+      "html_url": "https://github.com/Emmanuel-Costa/estudo_collections_kotlin",
+      "description": "Estudo sobre collections em Kotlin (DIO - Santander Bootcamp)",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 381746573,
+      "name": "Kotlin_Santander_Bootcamp_Calculadora",
+      "owner": {
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
+      },
+      "html_url": "https://github.com/Emmanuel-Costa/Kotlin_Santander_Bootcamp_Calculadora",
+      "description": "Proposta de exercício: Calculadora (sem input)",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 411682231,
+      "name": "app_repositories",
+      "owner": {
+        "login": "Emmanuel-Costa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82117565?v=4"
+      },
+      "html_url": "https://github.com/Emmanuel-Costa/app_repositories",
+      "description": "Aplicativo para apresentar o portfólio do github",
+      "stargazers_count": 0,
       "language": "Kotlin"
     }
   ]
